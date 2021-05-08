@@ -1,0 +1,1 @@
+# qety-eshop
