@@ -1,1 +1,4 @@
-# qety-eshop
+Repository Init Content
+=======================
+
+Your project description here.
